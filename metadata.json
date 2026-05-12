@@ -1,0 +1,6 @@
+{
+  "name": "KubeIntellect: Smart Campus Observability",
+  "description": "Futuristic AI-powered Kubernetes observability dashboard for Smart University infrastructure, featuring real-time pod discovery, dependency mapping, and causal inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
